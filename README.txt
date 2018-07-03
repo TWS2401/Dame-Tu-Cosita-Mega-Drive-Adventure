@@ -1,4 +1,4 @@
-"Dame Tu Cosita: Mega Drive Adventure" is a work-in-progress hack of Sonic The Hedgehog. It is based off of recent internet memes within recent years. It includes original level layouts and palette changes. The hack includes 6 different zones:
+"Dame Tu Cosita: Mega Drive Adventure" is a work-in-progress hack of Sonic The Hedgehog. It is based off of internet memes within recent years. It includes original level layouts and palette changes. The hack includes 6 different zones:
 
 Mars Zone - based off of the "Dame Tu Cosita" music video background
 Walmart Zone - based off of the infamous Jake Paul quote "WALMART"
