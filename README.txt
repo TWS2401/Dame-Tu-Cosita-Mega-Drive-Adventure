@@ -1,4 +1,4 @@
-"Dame Tu Cosita: Mega Drive Adventure" is a work-in-progress hack of Sonic The Hedgehog. It is based off of internet memes within recent years. It includes original level layouts and palette changes. The hack includes 6 different zones:
+"Dame Tu Cosita: Mega Drive Adventure" is a work-in-progress hack of Sonic the Hedgehog for the Sega Mega Drive. It is based off of memes within (what was at the time) recent years. It includes original level layouts and palette changes (for now). The hack includes 6 different zones:
 
 Mars Zone - based off of the "Dame Tu Cosita" music video background
 Walmart Zone - based off of the infamous Jake Paul quote "WALMART"
@@ -6,3 +6,5 @@ Suicide Forest Zone - based off of the infamous Logan Paul "Suicide Forest" inci
 Trending Page Zone - based off of the YouTube trending page
 Fortnite Zone - based off of the popular game "Fortnite"
 Jeremy Kyle Zone - based off of the "Jeremy Kyle Show" famous for people's relationship issues
+
+Credits to people who have created tutorials and tools I have utilised to make this can be found in the Credits.txt file.
