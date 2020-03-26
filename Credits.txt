@@ -1,0 +1,38 @@
+Sonic Retro SCHG How Tos:
+(Optimisation) Improve ObjectMove subroutines
+Collide with water after being hurt
+Correct Drowning Bugs in Sonic 1
+Display the Press Start Button text
+Dynamic Special Stage Walls system
+Fix a race condition with Pattern Load Cues
+Fix a remember sprite related bug
+Fix Accidental Deletion of Scattered Rings
+Fix demo playback
+Fix Ring Timers
+Fix Scattered Rings Underwater Physics
+Fix Song Restoration Bugs in Sonic 1's Sound Driver
+Fix the camera follow bug
+Fix the death boundary bug
+Fix the Hidden Points bug in Sonic 1
+Fix the HUD blinking
+Fix the Level Select graphics bug
+Fix the SEGA Sound
+Fix the Special Stage jumping physics
+Fix the Walk-Jump Bug in Sonic 1
+Improve the fade in/fade out progression routines in Sonic 1
+Sonic 2 (Simon Wai Prototype) Level Select in Sonic 1
+Remove the Speed Cap
+
+Sonic Retro Forum Fixes:
+"Some changes and fixes for Sonic 2"
+"Various bugfixes for the Sonic 1 sound driver"
+
+The ProjectSonic1TwoEight github repository:
+https://github.com/sonicretro/s1disasm/tree/ProjectSonic1TwoEight
+
+SSRG Tutorial Forums:
+"(Sonic 1) How to extend the time on the Title Screen longer"
+"[Easy] Centering Sonic 1's Title Screen"
+"Correcting Sonic 1 PAL Music Tempo"
+"FIXED Improving the Fade to White Routines"
+"How to Fix Sonic 1's Debug Mode"
