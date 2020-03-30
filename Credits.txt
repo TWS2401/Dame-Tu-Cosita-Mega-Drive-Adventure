@@ -36,3 +36,4 @@ SSRG Tutorial Forums:
 "Correcting Sonic 1 PAL Music Tempo"
 "FIXED Improving the Fade to White Routines"
 "How to Fix Sonic 1's Debug Mode"
+"Sonic 2's level select in Sonic 1"
